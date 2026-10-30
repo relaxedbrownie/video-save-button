@@ -26,7 +26,7 @@ https://raw.githubusercontent.com/relaxedbrownie/video-save-button/main/video-sa
 ## 버튼 모양
 
 <table>
-<thead><tr><th width="44">모양</th><th>뜻</th></tr></thead>
+<thead><tr><th width="68">모양</th><th>뜻</th></tr></thead>
 <tbody>
 <tr><td align="center"><img src="images/btn-download.svg" width="32" height="32" align="absmiddle" alt="다운로드 아이콘"></td><td>누르면 불러오기 시작</td></tr>
 <tr><td align="center"><img src="images/btn-loading.svg" width="32" height="32" align="absmiddle" alt="다운로드 아이콘과 테두리 링"></td><td>불러오는 중 (링이 진행률만큼 참, 진행률을 모를 땐 링이 돎)</td></tr>
