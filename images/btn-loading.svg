@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 40 40" role="img" aria-label="불러오는 중">
+  <circle cx="20" cy="20" r="20" fill="#000" fill-opacity="0.55"/>
+  <path d="M19 9h-4V3H9v6H5l7 7 7-7zM5 18v2h14v-2H5z" fill="#fff" fill-opacity="0.6" transform="translate(8 8)"/>
+  <circle cx="20" cy="20" r="18" fill="none" stroke="#fff" stroke-width="2.5" stroke-linecap="round" stroke-dasharray="67.9 113.1" transform="rotate(-90 20 20)"/>
+</svg>
