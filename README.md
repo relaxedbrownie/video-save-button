@@ -25,12 +25,12 @@ https://raw.githubusercontent.com/relaxedbrownie/video-save-button/main/video-sa
 
 ## 버튼 모양
 
-| 모양 | 뜻 |
+| 모&#8288;양 | 뜻 |
 |---|---|
-| <img src="images/btn-download.svg" width="32" height="32" alt="다운로드 아이콘"> | 누르면 불러오기 시작 |
-| <img src="images/btn-loading.svg" width="32" height="32" alt="다운로드 아이콘과 테두리 링"> | 불러오는 중 (링이 진행률만큼 참, 진행률을 모를 땐 링이 돎) |
-| <img src="images/btn-ready.svg" width="32" height="32" alt="체크 아이콘"> | 준비 완료, 누르면 저장 |
-| <img src="images/btn-error.svg" width="32" height="32" alt="빨간 금지 아이콘"> | 저장할 수 없는 영상이거나 실패 (길게 누르면 이유가 나옴) |
+| <img src="images/btn-download.svg" width="32" height="32" align="absmiddle" alt="다운로드 아이콘"> | 누르면 불러오기 시작 |
+| <img src="images/btn-loading.svg" width="32" height="32" align="absmiddle" alt="다운로드 아이콘과 테두리 링"> | 불러오는 중 (링이 진행률만큼 참, 진행률을 모를 땐 링이 돎) |
+| <img src="images/btn-ready.svg" width="32" height="32" align="absmiddle" alt="체크 아이콘"> | 준비 완료, 누르면 저장 |
+| <img src="images/btn-error.svg" width="32" height="32" align="absmiddle" alt="빨간 금지 아이콘"> | 저장할 수 없는 영상이거나 실패 (길게 누르면 이유가 나옴) |
 
 ## 저장할 수 없는 영상
 
