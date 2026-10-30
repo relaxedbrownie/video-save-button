@@ -25,12 +25,13 @@ https://raw.githubusercontent.com/relaxedbrownie/video-save-button/main/video-sa
 
 ## 버튼 모양
 
-| 모&#8288;양 | 뜻 |
-|---|---|
-| <img src="images/btn-download.svg" width="32" height="32" align="absmiddle" alt="다운로드 아이콘"> | 누르면 불러오기 시작 |
-| <img src="images/btn-loading.svg" width="32" height="32" align="absmiddle" alt="다운로드 아이콘과 테두리 링"> | 불러오는 중 (링이 진행률만큼 참, 진행률을 모를 땐 링이 돎) |
-| <img src="images/btn-ready.svg" width="32" height="32" align="absmiddle" alt="체크 아이콘"> | 준비 완료, 누르면 저장 |
-| <img src="images/btn-error.svg" width="32" height="32" align="absmiddle" alt="빨간 금지 아이콘"> | 저장할 수 없는 영상이거나 실패 (길게 누르면 이유가 나옴) |
+<table>
+<tr><th width="44">모양</th><th>뜻</th></tr>
+<tr><td align="center"><img src="images/btn-download.svg" width="32" height="32" align="absmiddle" alt="다운로드 아이콘"></td><td>누르면 불러오기 시작</td></tr>
+<tr><td align="center"><img src="images/btn-loading.svg" width="32" height="32" align="absmiddle" alt="다운로드 아이콘과 테두리 링"></td><td>불러오는 중 (링이 진행률만큼 참, 진행률을 모를 땐 링이 돎)</td></tr>
+<tr><td align="center"><img src="images/btn-ready.svg" width="32" height="32" align="absmiddle" alt="체크 아이콘"></td><td>준비 완료, 누르면 저장</td></tr>
+<tr><td align="center"><img src="images/btn-error.svg" width="32" height="32" align="absmiddle" alt="빨간 금지 아이콘"></td><td>저장할 수 없는 영상이거나 실패 (길게 누르면 이유가 나옴)</td></tr>
+</table>
 
 ## 저장할 수 없는 영상
 
@@ -55,7 +56,7 @@ https://raw.githubusercontent.com/relaxedbrownie/video-save-button/main/video-sa
 
 ## 업데이트
 
-새 버전은 파일을 바꾸고 스크립트의 버전 번호(`@version`)를 올립니다. 새 `video-save-button.user.js`로 다시 설치하세요.
+새 버전은 스크립트의 버전 번호(`@version`)를 올리고, 같은 이름의 태그와 릴리스(예: `v3.3`)를 붙입니다. 버전별로 바뀐 점은 [Releases](https://github.com/relaxedbrownie/video-save-button/releases)에서 볼 수 있습니다. 새 `video-save-button.user.js`로 다시 설치하세요.
 
 ## 주의
 
