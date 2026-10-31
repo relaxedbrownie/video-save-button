@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         동영상 저장 버튼
 // @namespace    https://github.com/relaxedbrownie/video-save-button
-// @version      3.3
+// @version      3.3.0
 // @description  동영상 화면을 탭하면 우측 상단에 2초간 저장 버튼을 표시 (떠 있을 때 탭하면 숨김). 한 번 눌러 불러오고, 다시 눌러 사진 앱/파일 앱에 저장. 버튼을 길게 누르면 진단 정보 표시. 일반 영상 파일과 HLS 스트리밍(.m3u8)을 지원
 // @match        *://*/*
 // @grant        GM_xmlhttpRequest
@@ -27,7 +27,7 @@
     return scope.muxjs;
   })();
 
-  const VERSION = '3.3';
+  const VERSION = '3.3.0';
   const SHOW_MS = 2000;            // 버튼 표시 시간
   const LONG_PRESS_MS = 600;       // 버튼을 이만큼 누르고 있으면 진단 정보 표시
   const MIN_SIZE = 80;             // 이보다 작은 영상(px)은 무시
