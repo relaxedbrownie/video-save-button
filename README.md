@@ -58,7 +58,7 @@ https://raw.githubusercontent.com/relaxedbrownie/video-save-button/main/video-sa
 
 ## 업데이트
 
-새 버전은 스크립트의 버전 번호(`@version`)를 올리고, 같은 이름의 태그와 릴리스(예: `v3.3.0`)를 붙입니다. 버전별로 바뀐 점은 [Releases](https://github.com/relaxedbrownie/video-save-button/releases)에서 볼 수 있습니다. 새 `video-save-button.user.js`로 다시 설치하세요.
+새 버전을 낼 때는 스크립트의 버전 번호(`@version`)를 올리고, 같은 번호로 태그와 릴리스를 붙입니다(예: `@version`이 `3.3.1`이면 `v3.3.1`). 버전별로 바뀐 점은 [Releases](https://github.com/relaxedbrownie/video-save-button/releases)에서 볼 수 있습니다. 새 `video-save-button.user.js`로 다시 설치하세요.
 
 ## 주의
 
